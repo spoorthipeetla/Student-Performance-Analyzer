@@ -29,7 +29,7 @@ for student in student_data:
 
     class_avg += avg
 
-    if(avg >= 90 and avg <=100):
+    if(avg >= 90):
         grade = 'A'
         feedback = 'Excellent'
     elif(avg >= 75):
