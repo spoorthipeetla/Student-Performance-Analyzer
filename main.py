@@ -110,4 +110,3 @@ if total_students > 0:
 else:
     print("No students were entered. No file was created.")
 
-print("Success! The class analysis has been saved to 'class_summary.txt'.")
